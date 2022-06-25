@@ -12,8 +12,9 @@ for (let i = 0; i < arr.length; i++) {
     
     }
     if (a>=2) {
-        console.log(min, max);
+        console.log(min);
+        console.log(max);
      }
      else if (a<2) {
-        console.log("Ooops");
+        console.log("Ooops!");
      }
